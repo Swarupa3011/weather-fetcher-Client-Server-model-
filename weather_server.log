@@ -1,0 +1,88 @@
+2025-06-16 19:59:37,603 - INFO - Weather server running at 127.0.0.1:12346
+2025-06-16 20:01:41,027 - INFO - Weather server running at 127.0.0.1:12346
+2025-06-16 20:08:57,767 - INFO - Weather server running at 127.0.0.1:12346
+2025-06-16 20:09:45,989 - INFO - Weather server running at 127.0.0.1:12346
+2025-06-16 20:10:23,001 - INFO - Connection from ('127.0.0.1', 9544)
+2025-06-16 20:10:23,003 - INFO - Processing request for: bangalore
+2025-06-16 20:10:26,210 - INFO - Connection from ('127.0.0.1', 9554)
+2025-06-16 20:10:26,211 - INFO - Processing request for: bangalore
+2025-06-16 21:53:07,954 - INFO - Connection from ('127.0.0.1', 10670)
+2025-06-16 21:53:07,955 - INFO - Processing request for: nandyal
+2025-06-16 21:53:37,497 - INFO - Connection from ('127.0.0.1', 10690)
+2025-06-16 21:53:37,510 - INFO - Processing request for: kurnool
+2025-06-16 21:53:40,112 - INFO - Connection from ('127.0.0.1', 10698)
+2025-06-16 21:53:40,137 - INFO - Processing request for: kurnool
+2025-06-18 15:05:44,715 - INFO - Weather server running at 127.0.0.1:12346
+2025-06-19 14:26:36,047 - INFO - Weather server running at 127.0.0.1:12346
+2025-06-19 14:27:19,193 - INFO - Weather server running at 127.0.0.1:12346
+2025-06-19 14:28:08,878 - INFO - Connection from ('127.0.0.1', 8325)
+2025-06-19 14:28:08,906 - INFO - Processing request for: Bangalore
+2025-06-19 14:28:13,430 - INFO - Connection from ('127.0.0.1', 8335)
+2025-06-19 14:28:13,445 - INFO - Processing request for: Bangalore
+2025-06-19 14:28:18,450 - INFO - Connection from ('127.0.0.1', 8344)
+2025-06-19 14:28:18,458 - INFO - Processing request for: Bangalore
+2025-06-19 14:28:22,206 - INFO - Connection from ('127.0.0.1', 8352)
+2025-06-19 14:28:22,221 - INFO - Processing request for: Bangalore
+2025-06-19 14:29:33,263 - INFO - Connection from ('127.0.0.1', 8375)
+2025-06-19 14:29:33,280 - INFO - Processing request for: tenali
+2025-06-19 14:29:42,537 - INFO - Connection from ('127.0.0.1', 8386)
+2025-06-19 14:29:42,539 - INFO - Processing request for: tenali
+2025-06-19 14:29:46,203 - INFO - Connection from ('127.0.0.1', 8396)
+2025-06-19 14:29:46,225 - INFO - Processing request for: tenali
+2025-06-22 12:39:38,018 - INFO - Weather server running at 127.0.0.1:12346
+2025-06-22 12:40:26,104 - INFO - Weather server running at 127.0.0.1:12346
+2025-06-22 12:41:38,202 - INFO - Connection from ('127.0.0.1', 5179)
+2025-06-22 12:41:38,209 - INFO - Processing request for: Bangalore
+2025-06-22 12:41:41,181 - INFO - Connection from ('127.0.0.1', 5187)
+2025-06-22 12:41:41,181 - INFO - Processing request for: tenali
+2025-06-22 12:41:43,511 - INFO - Connection from ('127.0.0.1', 5195)
+2025-06-22 12:41:43,511 - INFO - Processing request for: nandyal
+2025-06-22 12:41:45,834 - INFO - Connection from ('127.0.0.1', 5204)
+2025-06-22 12:41:45,834 - INFO - Processing request for: nandyal
+2025-06-22 12:41:49,529 - INFO - Connection from ('127.0.0.1', 5215)
+2025-06-22 12:41:49,529 - INFO - Processing request for: Bangalore
+2025-06-22 12:41:51,759 - INFO - Connection from ('127.0.0.1', 5226)
+2025-06-22 12:41:51,774 - INFO - Processing request for: Bangalore
+2025-06-22 12:42:17,523 - INFO - Connection from ('127.0.0.1', 5254)
+2025-06-22 12:42:17,536 - INFO - Processing request for: mumbai
+2025-06-22 12:42:20,122 - INFO - Connection from ('127.0.0.1', 5262)
+2025-06-22 12:42:20,134 - INFO - Processing request for: mumbai
+2025-06-22 12:42:30,098 - INFO - Connection from ('127.0.0.1', 5270)
+2025-06-22 12:42:30,100 - INFO - Processing request for: Bangalore
+2025-06-22 12:42:32,422 - INFO - Connection from ('127.0.0.1', 5278)
+2025-06-22 12:42:32,436 - INFO - Processing request for: Bangalore
+2025-06-22 12:42:34,660 - INFO - Connection from ('127.0.0.1', 5286)
+2025-06-22 12:42:34,671 - INFO - Processing request for: Bangalore
+2025-06-22 12:42:36,901 - INFO - Connection from ('127.0.0.1', 5295)
+2025-06-22 12:42:36,914 - INFO - Processing request for: mumbai
+2025-06-22 12:42:39,576 - INFO - Connection from ('127.0.0.1', 5304)
+2025-06-22 12:42:39,591 - INFO - Processing request for: Bangalore
+2025-06-22 12:42:41,931 - INFO - Connection from ('127.0.0.1', 5312)
+2025-06-22 12:42:41,931 - INFO - Processing request for: mumbai
+2025-06-22 12:42:44,226 - INFO - Connection from ('127.0.0.1', 5320)
+2025-06-22 12:42:44,227 - INFO - Processing request for: mumbai
+2025-06-22 12:42:46,467 - INFO - Connection from ('127.0.0.1', 5328)
+2025-06-22 12:42:46,468 - INFO - Processing request for: mumbai
+2025-07-12 09:01:48,650 - INFO - Weather server running at 127.0.0.1:12346
+2025-07-12 09:03:39,101 - INFO - Connection from ('127.0.0.1', 11706)
+2025-07-12 09:03:39,102 - INFO - Processing request for: Bangalore
+2025-07-12 09:03:42,528 - INFO - Connection from ('127.0.0.1', 11714)
+2025-07-12 09:03:42,528 - INFO - Processing request for: mumbai
+2025-07-12 09:03:45,179 - INFO - Connection from ('127.0.0.1', 11722)
+2025-07-12 09:03:45,196 - INFO - Processing request for: tenali
+2025-07-12 09:03:47,908 - INFO - Connection from ('127.0.0.1', 11730)
+2025-07-12 09:03:47,925 - INFO - Processing request for: Bangalore
+2025-07-12 09:03:50,540 - INFO - Connection from ('127.0.0.1', 11738)
+2025-07-12 09:03:50,540 - INFO - Processing request for: kurnool
+2025-07-12 09:03:53,423 - INFO - Connection from ('127.0.0.1', 11746)
+2025-07-12 09:03:53,423 - INFO - Processing request for: nandyal
+2025-07-12 09:03:56,256 - INFO - Connection from ('127.0.0.1', 11754)
+2025-07-12 09:03:56,282 - INFO - Processing request for: kurnool
+2025-07-12 09:03:59,048 - INFO - Connection from ('127.0.0.1', 11762)
+2025-07-12 09:03:59,061 - INFO - Processing request for: kurnool
+2025-07-12 09:04:01,950 - INFO - Connection from ('127.0.0.1', 11770)
+2025-07-12 09:04:01,962 - INFO - Processing request for: Bangalore
+2025-07-12 09:04:04,646 - INFO - Connection from ('127.0.0.1', 11778)
+2025-07-12 09:04:04,646 - INFO - Processing request for: Bangalore
+2025-07-12 09:04:07,492 - INFO - Connection from ('127.0.0.1', 11786)
+2025-07-12 09:04:07,508 - INFO - Processing request for: Bangalore
